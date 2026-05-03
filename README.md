@@ -1,7 +1,9 @@
 # Hello, I'm Görkem! 👋
 
 <!-- BANNER -->
-![Görkem Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=MIS%20Student%20%26%20Data%20Enthusiast&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Process%20Management,%20Analytics%20%26%20Software%20Development&descAlignY=51&descAlign=62&v=1)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+G%C3%B6rkem+K%C3%BCt%C3%BCkc%C3%BCler+%F0%9F%91%8B;MIS+Student+%40+Marmara+University;Data+Analytics+%7C+BPM+%7C+Software+Dev" alt="Typing SVG" />
+</p>
 
 I am a 3rd-year **Management Information Systems (MIS)** student at **Marmara University** and an active **IT Support Staff** member. I specialize in bridging the gap between business needs and technical solutions. My focus lies in data analytics, process modeling, and building efficient digital tools.
 
@@ -63,7 +65,10 @@ I am a 3rd-year **Management Information Systems (MIS)** student at **Marmara Un
 ---
 
 ### 📫 Let's Connect
-
+<p align="left">
+  <a href="mailto:kutukculergorkem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 <p align="left">
   <a href="https://www.linkedin.com/in/görkem-kütükçüler-589560225">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
